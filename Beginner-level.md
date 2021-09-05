@@ -29,7 +29,7 @@ This section of resource will introduce you to Python.
   
   ***NOTE: Along with this Introduction to Python course, Introduction to R and Introduction to Sql courses are also free till 12 september 2021. Hurry up! If you want to learn.*** 
   
-  #### Get Started with ML 
+#### Get Started with ML 
   This section of resources will get you started with ML and provide you with some basic knowledge along with some hands-on experience.
   
   - Course name: Intro to Machine Learning
