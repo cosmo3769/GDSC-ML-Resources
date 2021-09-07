@@ -3,7 +3,7 @@
 All the resources mentioned in this file will be of beginnner level. We will add new resources which will provide more knowledge about the field and will help you to gradually increase your level of understanding as a beginner.
 If you are new to the field and have zero to little idea about ML, we will suggest you to follow the resources in sequential order, this will help you to build a strong foundation.
 
-We suggest you all to signup on **kaggle** and explore it as much as you can. It is a great platform where you can learn and also participate in ML competitions and win some cash prizes. It offers a no-setup, customizable, Jupyter Notebooks environment. You can also access free GPUs, TPUs and you can also get huge community support from their notebooks and discussions.
+We suggest you all to signup on **[kaggle](https://kaggle.com)** and explore it as much as you can. It is a great platform where you can learn and also participate in ML competitions and win some cash prizes. It offers a no-setup, customizable, Jupyter Notebooks environment. You can also access free GPUs, TPUs and you can also get huge community support from their notebooks and discussions.
 
 ---
 
