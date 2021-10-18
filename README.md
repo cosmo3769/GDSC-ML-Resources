@@ -1,2 +1,3 @@
 # GDSC-ML-Resources
-This repo is for sharing resources about ML
+
+This repo is for sharing resources of machine learning/deep learning.
